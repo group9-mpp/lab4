@@ -46,7 +46,7 @@ public class Commissioned extends Employee {
 		LocalDate previousMonth = LocalDate.of(year, month, 1).minusMonths(1);
 		double sumOfOrders = 0;
 		for (Order order : orders) {
-			if (order.orderDate.getMonthValue() == previousMonth.getMonthValue()) 
+			if (order.getOrderDate().getMonthValue() == previousMonth.getMonthValue()) 
 				sumOfOrders +=  order.getOrderAmount();			
 		}
 
