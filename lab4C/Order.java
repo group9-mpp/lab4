@@ -3,9 +3,9 @@ package lab4C;
 import java.time.LocalDate;
 
 public class Order {
-	protected String orderNo;
-	protected LocalDate orderDate;
-	protected double orderAmount;
+	private String orderNo;
+	private LocalDate orderDate;
+	private double orderAmount;
 	
 	public Order(String orderNo, LocalDate orderDate, double orderAmount) {
 		this.orderNo = orderNo;
