@@ -214,7 +214,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFrCjE54lpvCW0="
 							},
-							"name": "SequenceDiagram1",
+							"name": "Lab4 PartA",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -235,9 +235,9 @@
 											"font": "Arial;13;0",
 											"left": 94.97900390625,
 											"top": 5,
-											"width": 115.9052734375,
+											"width": 66.04443359375,
 											"height": 13,
-											"text": "SequenceDiagram1"
+											"text": "Lab4 PartA"
 										},
 										{
 											"_type": "LabelView",
@@ -255,7 +255,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 24,
-									"width": 695,
+									"width": 865,
 									"height": 595,
 									"nameLabel": {
 										"$ref": "AAAAAAFrCjE55Fpyf1A="
@@ -770,7 +770,7 @@
 												"$ref": "AAAAAAFrCjPAFFsJpFo="
 											},
 											"edgePosition": 1,
-											"text": "1 : CalculatePrice"
+											"text": "1 : calculatePrice"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1750,7 +1750,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFrCjE54lpvCW0="
 							},
-							"name": "CalculatePrice",
+							"name": "calculatePrice",
 							"source": {
 								"$ref": "AAAAAAFrCjPAE1sGRq8="
 							},

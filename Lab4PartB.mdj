@@ -2030,7 +2030,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFrC2zbAUJIbUg="
 							},
-							"name": "SequenceDiagram1",
+							"name": "Lab4 PartB",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -2051,9 +2051,9 @@
 											"font": "Arial;13;0",
 											"left": 94.97900390625,
 											"top": 5,
-											"width": 115.9052734375,
+											"width": 66.04443359375,
 											"height": 13,
-											"text": "SequenceDiagram1"
+											"text": "Lab4 PartB"
 										},
 										{
 											"_type": "LabelView",
